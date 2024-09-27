@@ -1,1 +1,2 @@
 # Pink_Tax
+In "Google_trends_pink_tax_state_2014_to_2022.ipynb," the data is normalized by dividing the target state value by the average of baseline state value in each iteration. The baseline states include California, New York, Texas, and Illinois. [Choosing California, New York, Texas, and Illinois as baseline states is supported by their population size, economic and geographic diversity, and national influence. These factors ensure that they provide a stable, representative baseline for normalizing trends in data across the U.S.]
